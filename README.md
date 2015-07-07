@@ -32,11 +32,13 @@ pip install -r requirements.txt
 Place code to solve the Kata in kata_code.py and run test_kata.py with built-in unittest or pytest if installed in step 3.
 
 '''
-python kata_template/test_kata.py
+cd 00_kata_template
+python test_kata.py
 '''
 or
 '''
-py.test kata_template/test_kata.py
+cd 00_kata_template
+py.test test_kata.py
 '''
 
 Rinse, repeat.  See you at the user group!
