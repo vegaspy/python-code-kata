@@ -55,3 +55,7 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# Virtualenv - maybe not the best idea, would like feedback from someone who knows what they are doing.
+/bin
+/include
